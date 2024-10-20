@@ -6,7 +6,7 @@
 /____/\__/\__,_/\__,_/_/\____/_/ /_/ /_/ /_/_/   
                                                  
 ```
-                                          
-Student Radio Station of Hellenic Mediterranean University in Heraklion, Greece.
-👂Listen to our live stream at fm1.hmu.gr
-📧 Contact us at studiofm1@gmail.com
+<br/>                                         
+Student Radio Station of Hellenic Mediterranean University in Heraklion, Greece.<br/>
+👂Listen to our live stream at <a href="https://fm1.hmu.gr">fm1.hmu.gr</a><br/>
+📧 Contact us at <a href="mailto:studiofm1@gmail.com">studiofm1@gmail.com</a>
